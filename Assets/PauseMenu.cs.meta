@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2a226319b63e9a34ba805536f488626b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - restartGame: {instanceID: 0}
+  - Bola: {fileID: 1175620757707770, guid: f0df2fd4301a51841999eb32ae5da426, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
